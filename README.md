@@ -1,9 +1,7 @@
 # org.Spombe.eg.db
 
 Title: Genome wide annotation for Schizosaccharomyces pombe
-
 Description: Genome wide annotation for Schizosaccharomyces pombe, primarily based on mapping using Entrez Gene identifiers.
-
 Version: 0.1
 
 Author: Langqing Liu <Langqing.Liu@biologie.uni-muenchen.de>
