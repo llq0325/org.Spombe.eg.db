@@ -2,8 +2,8 @@
 Title: Genome wide annotation for Schizosaccharomyces pombe  
 Description: Genome wide annotation for Schizosaccharomyces pombe, primarily based on mapping using Entrez Gene identifiers.  
 Version: 0.1  
-Author: Langqing Liu
-Maintainer: Langqing Liu
+Author: Langqing Liu  
+Maintainer: Langqing Liu  
 Depends: R (>= 2.7.0), methods, AnnotationDbi (>= 1.52.0)  
 Suggests: DBI, annotate, RUnit  
 Imports: methods, AnnotationDbi  
